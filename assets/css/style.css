@@ -1,0 +1,21 @@
+body {
+    background-color: #241b2f;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.neon-input {
+    margin-top: 100px;
+    height: 64px;
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+.neon-input:focus {
+    background-color: transparent;
+    border-color: #eb36d8;
+    box-shadow: 0px 0px 16px 1px #eb36d8;
+}
